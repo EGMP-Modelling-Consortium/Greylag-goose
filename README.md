@@ -1,2 +1,2 @@
 # Greylag-goose
-Greylag goose population modelling
+Population modelling for Greylag Goose Northwest/Southwest European Population
